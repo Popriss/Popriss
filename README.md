@@ -4,7 +4,7 @@
   
   <!-- Visitor Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Popriss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
   </p>
 
   <p>
@@ -46,8 +46,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Popriss&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popriss&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 ---
